@@ -1,0 +1,2 @@
+INSERT INTO kesplus_base.kesplus_base_menu ("id","code","title","icon","classify","url","outer_link","component","hidden_flag","enabled","params","properties","create_by","create_time","update_by","update_time","tenant_id","module_id","dept_id","parent_id","sort_num","obj_type") VALUES
+    ('aa428946184940fd91ed903e6791b095',NULL,'流程管理','Operation',NULL,NULL,NULL,NULL,false,1,NULL,NULL,'546508b9842c4e3698a1f2d3ae6fa917',SYSDATE,'546508b9842c4e3698a1f2d3ae6fa917',SYSDATE,'0','aa428946184940fd91ed903e6791b095','0','0',1,'dir');

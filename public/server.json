@@ -1,0 +1,16 @@
+{
+	"appName":"课程资料共享系统",
+	"appCode":"knowhub",
+	"serverUrl":"http://localhost:54801",
+	"appInfo":{
+		"id":"74b176574eb44053bdf3df1b543bf71d",
+		"layout":"1",
+		"security":"http",
+		"selectModule":""
+	},
+	"supportVersion":{
+		"createVersion":"v3.1.7",
+		"maxVersion":"v3.1.7",
+		"minVersion":"v3.1.7"
+	}
+}

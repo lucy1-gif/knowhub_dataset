@@ -1,0 +1,2 @@
+INSERT INTO kesplus_workflow.kesplus_module ("id","module_name","module_path","module_code","module_icon","remark","create_time","create_by","update_time","update_by","app_id","type","enabled","child_api","tenant_id","status","charge_by","sort","module_version") VALUES
+	 ('aa428946184940fd91ed903e6791b095','流程管理','/kesplus_workflow','kesplus_workflow',NULL,NULL,SYSDATE,'546508b9842c4e3698a1f2d3ae6fa917',SYSDATE,NULL,'546508b9842c4e3698a1f2d3ae6fa917',0,1,NULL,'0',1,'546508b9842c4e3698a1f2d3ae6fa917',2,'V2.0');

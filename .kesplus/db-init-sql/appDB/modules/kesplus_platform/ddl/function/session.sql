@@ -1,0 +1,9 @@
+CREATE OR REPLACE FUNCTION kesplus_platform.session(attr session_attr)
+ RETURNS text
+AS WRAPPED
+XZ32wb2HGkq6tU6JSL4/yT3ZWaCiSsHPqNtCqXerzoZnxmxt0AA+iQCODlSm
+mGrAeXRT45tQfI71TeeZoZfh4KzEbl3e36OizlP3lpTzKqTH56USGjic/7Pn
+nwbS5JG90Vy9chXyh5xyWJw5LHhG+cjoXEyFWHs4RbabKpchnKgHej2hLO7z
+s0qOxrgo3M3+
+END;
+

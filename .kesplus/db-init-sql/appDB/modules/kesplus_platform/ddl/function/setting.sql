@@ -1,0 +1,14 @@
+CREATE OR REPLACE FUNCTION kesplus_platform.setting(settingKey text)
+ RETURNS text
+AS WRAPPED
+iHW8C46dIKcc7RuOUhYjy9ESdAUhdRiIu8alZJLouB2Q74P4Iaj1wZq9JT9P
+//Od4FKC7gfE51hyQwaeb45coJ7OTvio7SOAaMnD008/mABXyiHz75XUTd0U
+YNAj939poHKispUO0GqOcYmDOplPOr4vlPbriN+ucn/as9/lYKTRAUW9na8z
+rvICaMbbDyC6ZwA1MpWB8oREtYf3xdorqHUpO7qVwwJ6h9mzblLk/ycUyvUO
+QQepLunh/g+4dsS3l7mvQKtHM6TN4vG5TEPWL6IWw2fvIzOozOyxXSMvEo06
+SnK9GtB3YqQlZZIxlNi4a8AoBaPqNR6e+y6s9sKbsjglD+GtTZ2ZEmCHkqD6
+5p0iOMseKhwcfF64jY+oQnMfV7qZf0gma8TZ3oschCnmaznuD3ycTZTEAf8s
+2S8F03dkX3gAchUlthK7b86uNmBnNNnLZKd7inWVnz+/uvC8ueMFoNoFxq/H
+sPxFv3mWl9u49f94zW+s+jefd+K9jmassggrWehHf7piZwwK7sNruw==
+END;
+

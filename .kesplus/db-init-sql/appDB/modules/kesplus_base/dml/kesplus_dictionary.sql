@@ -1,0 +1,6 @@
+INSERT INTO kesplus_base.kesplus_dictionary ("id","code","dictionary_id","name","description","val","pid","module_id","sort","filters","enabled","val_type","create_by","create_time","update_by","update_time","dept_id","dictionary_level") VALUES
+	 ('df768c9462134ca8a5fcb4d13ea16335','jobType','df768c9462134ca8a5fcb4d13ea16335','岗位类型','岗位类型，分为工勤岗位、专技岗位、管理岗位',NULL,'0','0',5,NULL,1,'varchar','55c7f09a7aea4db98cbb40bbb4447b96',SYSDATE,'55c7f09a7aea4db98cbb40bbb4447b96',SYSDATE,'0',0),
+	 ('212fdfcf9314411691f7607a6c939fc5','jobType','df768c9462134ca8a5fcb4d13ea16335','工勤岗位',NULL,'working','df768c9462134ca8a5fcb4d13ea16335','0',1,NULL,1,'varchar','55c7f09a7aea4db98cbb40bbb4447b96',SYSDATE,'55c7f09a7aea4db98cbb40bbb4447b96',SYSDATE,'0',1),
+	 ('9cfc9b2dfbb944e4bf9f9c7c725fd13f','jobType','df768c9462134ca8a5fcb4d13ea16335','管理岗位',NULL,'manage','df768c9462134ca8a5fcb4d13ea16335','0',3,NULL,1,'varchar','55c7f09a7aea4db98cbb40bbb4447b96',SYSDATE,'55c7f09a7aea4db98cbb40bbb4447b96',SYSDATE,'0',1),
+	 ('cbebf86c6ea34b6581d626f74e886d8e','jobType','df768c9462134ca8a5fcb4d13ea16335','专技岗位',NULL,'technical','df768c9462134ca8a5fcb4d13ea16335','0',2,NULL,1,'varchar','55c7f09a7aea4db98cbb40bbb4447b96',SYSDATE,'55c7f09a7aea4db98cbb40bbb4447b96',SYSDATE,'0',1);
+

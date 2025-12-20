@@ -1,0 +1,10 @@
+CREATE OR REPLACE FUNCTION kesplus_platform."user"(attr user_attr, defaultValue text DEFAULT NULL::text)
+ RETURNS text
+AS WRAPPED
+XZ32wb2HGkq6tU6JSL4/yTj0b2FKz97NPX+cRrXHCRfFHrAR7Dv4MQL2bJFv
+EuSbi3pZyfrqidSbVelup8gVDI/TJe6ah/mqrO+Z1pABfNbPsKyCHvt+585d
+rwU8N5ELy0nOi1PoR+zMwzrqTKIskJ8S97xSKwNmXtc95HFAV2ZnKOejali7
+f4QyzqAhWHJaE9GNx8FUQLSJkHGZtbZmDjtFkFlgr36Tp93YVaGhA0XyryiH
+bcd4jpiQ5ueWAmKwvPPNWAx/ZDPTlWATdo89+g==
+END;
+

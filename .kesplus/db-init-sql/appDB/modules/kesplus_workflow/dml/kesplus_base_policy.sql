@@ -1,0 +1,2 @@
+INSERT INTO kesplus_base.kesplus_base_policy ("id","code","name","db_role_code","description","enabled","params","tables","create_by","create_time","update_by","update_time","dept_id","module_id","tenant_id","parent_id","obj_type","sort_num") VALUES
+	 ('aa428946184940fd91ed903e6791b095', NULL,'流程管理', NULL, '流程管理', 1, NULL, NULL, NULL, SYSDATE, NULL, SYSDATE,'0', 'aa428946184940fd91ed903e6791b095','0', '0', 'dir', NULL);
